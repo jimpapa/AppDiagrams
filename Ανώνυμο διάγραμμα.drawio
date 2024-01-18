@@ -1,0 +1,210 @@
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:38:13.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KrHbxpsxddeIUAZIrqvw" version="22.1.21" type="github">
+  <diagram name="Σελίδα-1" id="kdnXmW6HOD3NCv6BWWeN">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-1" target="xG_TcjDIgjfuKsU6JlMh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-1" value="Εισαγωγή ΑΜΚΑ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-5" value="Όχι" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-2" target="xG_TcjDIgjfuKsU6JlMh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-2" target="xG_TcjDIgjfuKsU6JlMh-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="210" />
+              <mxPoint x="430" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-12" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-7">
+          <mxGeometry x="-0.1218" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-2" value="Έγκυρο ΑΜΚΑ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-4" target="xG_TcjDIgjfuKsU6JlMh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-4" value="Μήνυμα Λάθους δεν δόθηκε Έγκυρο ΑΜΚΑ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-6" target="xG_TcjDIgjfuKsU6JlMh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-16" value="Όχι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-13">
+          <mxGeometry x="-0.2396" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-6" target="xG_TcjDIgjfuKsU6JlMh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-18" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-17">
+          <mxGeometry x="-0.2703" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-6" value="Έλεγχος στην ΗΔΙΚΑ αν ο ασθενής υπάρχει" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-19" target="xG_TcjDIgjfuKsU6JlMh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-22" value="&#39;Οχι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-21">
+          <mxGeometry x="-0.6379" relative="1" as="geometry">
+            <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-19" value="Έλεγχος με ΑΜΚΑ αν υπάρχει στην βάση του TMS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="320" width="115" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-25" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-24">
+          <mxGeometry x="-0.0424" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="targetPoint" />
+            <mxPoint x="70" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="260" />
+              <mxPoint x="401" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-35" value="Όχι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-29">
+          <mxGeometry x="-0.2114" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-20" value="Μήνυμα για Δημιουργία ασθενή και άνοιγμα καρτέλας ασθενούς" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-26" value="Κατέβασμα του ασθενή και άνοιγμα της Καρτέλας του" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-41" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-40">
+          <mxGeometry x="-0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-44" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-43">
+          <mxGeometry x="0.0222" y="-4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-45" value="&amp;gt;2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-43">
+          <mxGeometry x="-0.0097" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-37" value="Πόσες φορές υπάρχει" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="115" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-51" value="&#39;Οχι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-50">
+          <mxGeometry x="-0.5016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-46" value="Μήνυμα για αντικατάσταση ή όχι των στοιχείων του από ΗΔΙΚΑ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="785" as="targetPoint" />
+            <mxPoint x="490" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-48" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-47">
+          <mxGeometry x="-0.0424" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-49" value="Κατέβασμα του ασθενή και άνοιγμα της Καρτέλας του" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-57" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-54">
+          <mxGeometry x="-0.3698" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xG_TcjDIgjfuKsU6JlMh-52" target="xG_TcjDIgjfuKsU6JlMh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-56" value="&#39;Οχι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-55">
+          <mxGeometry x="-0.3075" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-52" value="Επιλογή ασθενή από Grid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="115" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-58" value="Μήνυμα για αντικατάσταση ή όχι των στοιχείων του από ΗΔΙΚΑ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="687.5" y="785" as="targetPoint" />
+            <mxPoint x="687.5" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-60" value="Ναι" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xG_TcjDIgjfuKsU6JlMh-59">
+          <mxGeometry x="-0.0424" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xG_TcjDIgjfuKsU6JlMh-61" value="Κατέβασμα του ασθενή και άνοιγμα της Καρτέλας του" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
